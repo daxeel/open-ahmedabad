@@ -1,4 +1,4 @@
-# Open Ahmedabad
+# Open Ahmedabad Organisation
 
 The idea behind the initiative is to maintain public data and make it available to different communities to build some amazing tools out of it.
 
